@@ -60,3 +60,6 @@ This project is built with a mobile-first approach and tested on:
 ## 📄 License
 
 This project is for educational purposes only.
+
+**Thank you for reviewing my project!**  
+— *Mark Yacoub*
