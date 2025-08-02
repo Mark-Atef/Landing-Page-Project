@@ -93,3 +93,6 @@ This project was part of the **Web Masters Front-End Training Program**, which f
 ## 📄 License
 
 This project is for educational purposes only.
+
+**Thank you for reviewing my project!**  
+— *Mark Yacoub*
